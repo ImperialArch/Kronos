@@ -1,0 +1,12 @@
+zig-cache/
+.zig-cache/
+zig-out/
+*.exe
+*.obj
+*.pdb
+target/
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+Thumbs.db
